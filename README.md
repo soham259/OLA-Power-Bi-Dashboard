@@ -1,4 +1,4 @@
-# 📊 Data Analysis Power BI Dashboard
+# 📊 OLA Power BI Dashboard
 
 This project presents a comprehensive Power BI dashboard built to analyze ride-sharing data. The dashboard uncovers insights into ride volume trends, booking behavior, payment preferences, and customer-driver ratings.
 
