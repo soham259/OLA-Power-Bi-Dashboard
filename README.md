@@ -3,6 +3,10 @@
 This project presents a comprehensive Power BI dashboard built to analyze ride-sharing data. The dashboard uncovers insights into ride volume trends, booking behavior, payment preferences, and customer-driver ratings.
 
 ---
+### 📊 Power BI Dashboard
+[🔗 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a2e3dce1-b42b-4a8a-b69a-098284896f3f/374612d34e1903448171?experience=power-bi)
+*(If link not working, download pbix file)*
+
 
 ## 🚀 Project Overview
 
