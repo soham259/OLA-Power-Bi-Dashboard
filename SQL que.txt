@@ -1,0 +1,7 @@
+# SQL Queries for Ride Booking System
+
+## Queries Overview
+
+### 1. Retrieve all successful bookings
+```sql
+SELECT * FROM bookings WHERE Booking_Status = 'Success';
